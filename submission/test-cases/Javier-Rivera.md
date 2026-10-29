@@ -1,6 +1,6 @@
 # Test Cases: [Javier R]
 
-**Team number:** [pressPlay()
+**Team number:** pressPlay()
 
 <!--
 HOW TO USE THIS FILE
