@@ -14,24 +14,24 @@ HOW TO USE THIS FILE
 
 ---
 
-**Test ID:**
-**Written by:**
-**Title:**
-**Traces to:**
-**Test type:** (Unit / Integration / System / Acceptance / Boundary Value / Negative / Security)
+**Test ID: REQ-01**
+**Written by: Javier Rivera**
+**Title: **
+**Traces to: REQ ID**
+**Test type:** (Value)
 **Preconditions:**
-**Test data:**
+**Test data: Username = "1"; Password = "1234"**
 
 **Steps:**
-1.
-2.
+1. Enter username as "1"
+2. Enter Password as "1234"
 3.
 
-**Expected result:**
-**Actual result:**
-**Status:** (Pass / Fail)
-**Severity:** (Critical / Major / Minor, Fail only)
-**V or V:** (Verification / Validation, Fail only)
+**Expected result: Invalide**
+**Actual result: Success**
+**Status:** (Pass)
+**Severity:** (Critical)
+**V or V:** (Verification)
 
 ---
 
